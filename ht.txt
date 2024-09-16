@@ -1,4 +1,4 @@
 vless://d1891015-45d4-46c2-8e3a-53fc622fb8e1@213.176.7.45:47611?type=tcp&security=none#tun-direct-hossein
 vless://1bb39cee-32b0-40e6-9c0e-511807e2f8ae@213.176.7.45:58658?type=ws&path=%2Feeseeerw&host=s5.tapsi.top&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=s5.tapsi.top#ws-tls-h
 vless://62a0c59b-0a35-4810-96d7-8efb1ed6deee@213.176.7.45:58901?type=tcp&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=s5.tapsi.top#tcp-tls-h2
-vless://4ea5d57c-256a-41e8-b34a-6aedd91f1625@213.176.7.45:25275?type=tcp&security=reality&pbk=RpoMpR3dAJZeTbYkiwBG_0-frcrlkHkP8S3x6oUqRGQ&fp=random&sni=yahoo.com&sid=6232b00825ce81&spx=%2F#reality-h3
+vless://4ea5d57c-256a-41e8-b34a-6aedd91f1625@213.176.7.45:25275?type=tcp&security=reality&pbk=RpoMpR3dAJZeTbYkiwBG_0-frcrlkHkP8S3x6oUqRGQ&fp=random&sni=yahoo.com&sid=6232b00825ce81&spx=%2F#tun-reality1-h3
